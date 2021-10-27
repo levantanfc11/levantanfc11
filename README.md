@@ -18,6 +18,19 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://www.rstudio.com/" target="_blank"> <img src="https://taiwebs.com/upload/icons/r-studio220-220.jpg" alt="R-Studio" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+
+<br>
+<br>
+<p align="center">
+    <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="VANTAN's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=levantanfc11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
+<br>
+<br>
   
 ## 📊 My Github Stats
 
