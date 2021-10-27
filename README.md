@@ -12,3 +12,7 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://www.rstudio.com/" target="_blank"> <img src="https://taiwebs.com/upload/icons/r-studio220-220.jpg" alt="R-Studio" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<h3 align="center"><p>Connect with me:</p>
+    <a href="https://www.linkedin.com/in/v%C4%83n-t%C3%A2n-l%C3%AA-816534209/" target="_blank"> <img src="https://banner2.cleanpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" alt="linkedln" width="40" height="40"/> </a>
+</h3>
+  
